@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
+Hi! I am Huan Chi, an ordinary girl who passionate to learn anything and ready to adapt to different environments. I am interested in different business areas, specifically Marketing and Consulting Areas. I love to explore new things and learn as much as I can! Let's connect to exchange our ideas!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Low Huan Chi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th January 2001
     - name: Languages
-      value: English, German
+      value: English, Chinese, Malay
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Degree
+      institution: University of Malaya, Malaysia
+      year: 2020.10 - 2024.01
       description:
         - Description 1.
         - Description 2.
